@@ -1,0 +1,35 @@
+:root {
+  /* radii */
+  --r-panel: 28px;
+  --r-inner: 12px;
+
+  /* spacing */
+  --sp-1: 4px;
+  --sp-2: 8px;
+  --sp-3: 12px;
+  --sp-4: 16px;
+  --sp-6: 24px;
+
+  /* surfaces — PLACEHOLDER; Murf will fill in live Interstellar values later */
+  --bg-base: #0a0a0f;
+  --bg-panel: rgba(18, 15, 20, 0.78);
+  --bg-elev: rgba(32, 28, 36, 0.85);
+
+  /* text */
+  --fg: #e8e2d8;
+  --fg-muted: #8a8075;
+
+  /* accent — PLACEHOLDER */
+  --accent: #ff8a3d;
+  --accent-dim: rgba(255, 138, 61, 0.25);
+}
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  background: transparent;
+}
+
+body {
+  color: var(--fg);
+}
