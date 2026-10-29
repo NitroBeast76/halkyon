@@ -13,24 +13,17 @@
     "windows": [
       {
         "label": "main",
-        "title": "bloom",
+        "title": "halkyon",
         "width": 1920,
-        "height": 420,
+        "height": 40,
         "x": 0,
         "y": 0,
         "decorations": false,
         "transparent": true,
         "resizable": false,
-        "maximizable": false,
-        "minimizable": false,
-        "closable": false,
         "alwaysOnTop": true,
-        "visibleOnAllWorkspaces": true,
-        "focus": false,
-        "skipTaskbar": true,
-        "shadow": false,
-        "visible": false,
-        "dragDropEnabled": true
+        "visible": true,
+        "skipTaskbar": true
       },
       {
         "label": "settings",
